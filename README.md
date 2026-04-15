@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="80" height="80"/>
+  <img src="./Assets/github-icon-2.svg" alt="GitHub" width="80" height="80"/>
   <h1>🚀 Repositório de Desafios da DIO</h1>
   <p><b>Central de soluções e projetos desenvolvidos nos bootcamps da Digital Innovation One (DIO)</b></p>
 
