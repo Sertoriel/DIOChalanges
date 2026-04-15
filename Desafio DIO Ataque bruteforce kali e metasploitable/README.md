@@ -338,11 +338,9 @@ A execução deste laboratório foi fundamentada em documentação técnica ofic
 
 ## 👨‍💻 Sobre o Autor
 
-**João Arthur Duarte de Faria** _Junior Software Engineer (.NET / Node.js) & Game Developer_ Conecte-se comigo e acompanhe o desenvolvimento de arquiteturas de software seguras e outros projetos:
+**João Arthur Duarte de Faria** _Software Engineer (.NET / Node.js) & Game Developer_ Conecte-se comigo e acompanhe o desenvolvimento de arquiteturas de software seguras e outros projetos:
 
 - 💼 **LinkedIn:** [João Arthur Duarte](https://www.linkedin.com/in/joao-arthur-duarte/)
 - 💻 **GitHub:** [Sertoriel](https://github.com/Sertoriel)
 
-```
-
-```
+---
